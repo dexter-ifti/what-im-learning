@@ -8,4 +8,5 @@ I'll dump everything which I'll learn
 - https://medium.com/@darshan11patil3/everything-you-need-to-know-about-graph-theory-4f60a151617d
 - https://medium.com/@darshan11patil3/attention-all-you-need-f003c8ea9842
 - [System Design by Hello Interview SWE Interview Preparation](https://www.youtube.com/playlist?list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM)
+- [SQL 50](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-aQ1U1AaOA8LBrCoE-3TX2)
 - 
