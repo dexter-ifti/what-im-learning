@@ -1,7 +1,7 @@
 # what-im-learning
 I'll dump everything which I'll learn 
-- https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1
-- https://www.youtube.com/playlist?list=PLinedj3B30sA-XUqy01s8yrZ0r0QZMpQT
+- [Backend From First Principles](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
+- [Building AI Agents With TypeScript and OpenAI](https://www.youtube.com/playlist?list=PLinedj3B30sA-XUqy01s8yrZ0r0QZMpQT)
 - https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b#e3d7
 - https://medium.com/@erickzanetti/rabbitmq-a-complete-guide-to-message-broker-performance-and-reliability-3999ee776d85
 - https://medium.com/@shivambhadani_/things-you-must-secure-before-deploying-a-backend-to-production-1eeb641cdf4b
