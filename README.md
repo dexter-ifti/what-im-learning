@@ -9,4 +9,4 @@ I'll dump everything which I'll learn
 - https://medium.com/@darshan11patil3/attention-all-you-need-f003c8ea9842
 - [System Design by Hello Interview SWE Interview Preparation](https://www.youtube.com/playlist?list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM)
 - [SQL 50](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-aQ1U1AaOA8LBrCoE-3TX2)
-- 
+- [Redis Pub/Sub](https://oneuptime.com/blog/post/2026-01-26-redis-pubsub-implementation/view)
