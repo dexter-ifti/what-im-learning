@@ -14,3 +14,4 @@ I'll dump everything which I'll learn
 - [Langchain CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0)
 - [Redis](https://youtu.be/5YqP18Gyop0?si=IK_jPsa3NaxsoUtR)
 - [Build AI Agents](https://www.youtube.com/playlist?list=PLu71SKxNbfoBVp_NCjlOQmXdNJcnCf59L]) (Ongoing)
+- [Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
